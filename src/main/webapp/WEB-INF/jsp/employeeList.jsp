@@ -37,7 +37,6 @@
                         <button type="submit">Generuj vCard</button>
                     </td>
                 </tr>
-                <br>
             </form:form>
 
         </c:forEach>
